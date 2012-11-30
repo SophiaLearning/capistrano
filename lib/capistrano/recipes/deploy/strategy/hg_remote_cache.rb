@@ -1,4 +1,5 @@
 require 'capistrano/recipes/deploy/strategy/remote'
+require 'capistrano/recipes/deploy/strategy/remote_cache'
 
 module Capistrano
   module Deploy
